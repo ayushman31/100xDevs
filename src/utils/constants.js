@@ -1,0 +1,1 @@
+export const IMAGE_URL = "https://d2szwvl7yo497w.cloudfront.net/courseThumbnails/main.png";
