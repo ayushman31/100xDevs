@@ -66,7 +66,7 @@ export const activities = [
         activities: [
             "WebDev Week 3.1"
         ],
-        notes: <a href="https://petal-estimate-4e9.notion.site/Static-HTML-fcb2a55784c94de88a02915a2e4c7dfb" target="_blank">DOM Manipulation</a>
+        notes: <a href="https://petal-estimate-4e9.notion.site/DOM-Manipulation-d43659eddda44472913ecf90e4ebf218" target="_blank">DOM Manipulation</a>
     },
     {
         date: "Sun Aug 18 2024",
