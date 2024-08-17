@@ -57,7 +57,7 @@ export const activities = [
             <a >Web-3 Week-3</a>
 
         ],
-        notes: <a href="https://projects.100xdevs.com/tracks/public-private-keys/Public-Key-Cryptography-1" target="_blank">Public Key Cryptography</a>
+        notes: <a href="https://petal-estimate-4e9.notion.site/Creating-a-web-based-wallet-b628b611dd934ca8b68a2654ac14fdb4" target="_blank">Creating a web based Wallet</a>
     },
 
 
