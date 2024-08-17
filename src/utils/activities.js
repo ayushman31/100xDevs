@@ -54,7 +54,7 @@ export const activities = [
         date: "Fri Aug 16 2024",
         activities: [
             <a href="https://app.100xdevs.com/courses/13/441/442" target="_blank">Web-3 Offline Class</a>,
-            <a >Web-3 Week-3</a>
+            <a href="https://app.100xdevs.com/courses/13/444/445">Web-3 Week-3</a>
 
         ],
         notes: <a href="https://petal-estimate-4e9.notion.site/Creating-a-web-based-wallet-b628b611dd934ca8b68a2654ac14fdb4" target="_blank">Creating a web based Wallet</a>
@@ -65,7 +65,8 @@ export const activities = [
         date: "Sat Aug 17 2024",
         activities: [
             "WebDev Week 3.1"
-        ]
+        ],
+        notes: <a href="https://petal-estimate-4e9.notion.site/Static-HTML-fcb2a55784c94de88a02915a2e4c7dfb" target="_blank">DOM Manipulation</a>
     },
     {
         date: "Sun Aug 18 2024",
